@@ -62,7 +62,7 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 - **Ürün Durumu**: Ekran görüntüleri:
  
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştı. 
+Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır. 
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
