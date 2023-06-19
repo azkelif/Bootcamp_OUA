@@ -33,7 +33,7 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 ## Ürün Özellikleri
 
 - 2 saatten az yolculuk süresi kalan elektrikli araç sahibine uygulama üzerinden uyarı verilmesi
-- 
+  
 
 ## Hedef Kitle
 
@@ -54,13 +54,15 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats] 
+https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/edit?usp=sharing
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-
+https://trello.com/invite/b/TTX1vEsQ/ATTI6c689acc966ad989e65fa986faf7e7c29282C80A/bootcamp-oua
 
 - **Ürün Durumu**: Ekran görüntüleri:
- 
+ https://docs.google.com/document/d/1yIdhhCjRr7Cm8EoOXKo7alXBDttCTLyFrngD8-Tfc1k/edit?usp=sharing
+
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır. 
 
