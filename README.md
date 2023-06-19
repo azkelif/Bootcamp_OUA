@@ -47,6 +47,8 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 
 # Sprint 1
 
+**Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
