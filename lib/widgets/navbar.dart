@@ -1,8 +1,8 @@
+import 'package:chargevapp/screens/home_screen.dart';
 import 'package:flutter/material.dart';
-import '../screens/car.dart';
-import '../screens/favorite.dart';
-import '../screens/home.dart';
-import '../screens/profile.dart';
+import '../screens/car_screen.dart';
+import '../screens/favorite_screen.dart';
+import '../screens/profile_screen.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key});
@@ -14,7 +14,7 @@ class navbar extends StatefulWidget {
 class _navbarState extends State<navbar> {
   int _currentIndex = 0;
   List pages = [
-    const home(),
+    HomeScreen(),
     const car(),
     const favorite(),
     const profile()
