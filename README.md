@@ -62,7 +62,8 @@ https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-![Ekran görüntüsü 2023-06-20 213730](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/c7f533c0-9bf1-4595-af84-6d16763b0675)
+![Ekran görüntüsü 2023-06-20 214107](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/b1b4d999-7f6f-4707-9c00-e0c341a1522b)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri: Ekipteki arkadaşlarımızın final dönemine denk geldiği için sayfaların kodları yazılmadı, yapacağımız uygulamanın örnek ui fotoğrafları koyuldu. 
