@@ -19,7 +19,7 @@ Takım Flutter 50
 
 ## Product Backlog URL
 
-
+https://trello.com/b/TTX1vEsQ/bootcamp-oua
 
 ## Ürün Açıklaması
 
