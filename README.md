@@ -62,8 +62,13 @@ https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/
 
 https://trello.com/invite/b/TTX1vEsQ/ATTI6c689acc966ad989e65fa986faf7e7c29282C80A/bootcamp-oua
 
-- **Ürün Durumu**: Ekran görüntüleri:
- https://docs.google.com/document/d/1yIdhhCjRr7Cm8EoOXKo7alXBDttCTLyFrngD8-Tfc1k/edit?usp=sharing
+- **Ürün Durumu**: Ekran görüntüleri: Ekipteki arkadaşlarımızın final dönemine denk geldiği için sayfaların kodları yazılmadı, yapacağımız uygulamanın örnek ui fotoğrafları koyuldu. 
+
+  
+![Picture1](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/ca6df1bb-db1c-4e8a-a176-986d341936b7)
+
+![Picture2](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/776e0b74-cc83-414e-b0b0-cbe28630bb3e)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmıştır. 
