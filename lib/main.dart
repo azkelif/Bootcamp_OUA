@@ -1,5 +1,5 @@
-import 'package:chargev_app/widgets/appbar.dart';
-import 'package:chargev_app/widgets/navbar.dart';
+import 'package:chargevapp/widgets/appbar.dart';
+import 'package:chargevapp/widgets/navbar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
