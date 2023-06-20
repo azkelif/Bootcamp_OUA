@@ -1,20 +1,19 @@
+import 'package:chargevapp/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import '../components/rounded_button.dart';
 import '../constants.dart';
-import 'home_screen.dart';
-import 'login_screen.dart';
 
-class RegistrationScreen extends StatefulWidget {
-  static const String id = 'registration_screen';
+class LoginScreen extends StatefulWidget {
+  static const String id = 'login_screen';
   @override
-  _RegistrationScreenState createState() => _RegistrationScreenState();
+  _LoginScreenState createState() => _LoginScreenState();
 }
 
-class _RegistrationScreenState extends State<RegistrationScreen> {
-  final _auth = FirebaseAuth.instance;
+class _LoginScreenState extends State<LoginScreen> {
   bool showSpinner = false;
+  final _auth = FirebaseAuth.instance;
   late String email;
   late String password;
 
@@ -58,16 +57,16 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                 height: 24.0,
               ),
               RoundedButton(
-                title: 'Register',
-                colour: Colors.blueAccent,
+                title: 'Log In',
+                colour: Colors.lightBlueAccent,
                 onPressed: () async {
                   setState(() {
                     showSpinner = true;
                   });
                   try {
-                    final newUser = await _auth.createUserWithEmailAndPassword(
+                    final user = await _auth.signInWithEmailAndPassword(
                         email: email, password: password);
-                    if (newUser != null) {
+                    if (user != null) {
                       Navigator.pushNamed(context, HomeScreen.id);
                     }
 
@@ -77,18 +76,6 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   } catch (e) {
                     print(e);
                   }
-                },
-              ),
-              RoundedButton(
-                title: 'Login',
-                colour: Colors.blueAccent,
-                onPressed: () async {
-                  setState(() {
-                    showSpinner = true;
-                  });
-
-                      Navigator.pushNamed(context, LoginScreen.id);
-
                 },
               ),
             ],

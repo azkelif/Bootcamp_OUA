@@ -23,7 +23,7 @@ class _navbarState extends State<navbar> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: pages[_currentIndex],
-      bottomNavigationBar: NavigationBar(destinations: [
+      bottomNavigationBar: NavigationBar(destinations: const [
         NavigationDestination(icon: Icon(Icons.home_rounded), label: "Home"),
         NavigationDestination(icon: Icon(Icons.car_crash_rounded), label: "Car"),
         NavigationDestination(icon: Icon(Icons.star), label: "Favorite"),
