@@ -33,6 +33,8 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 ## Ürün Özellikleri
 
 - 2 saatten az yolculuk süresi kalan elektrikli araç sahibine uygulama üzerinden uyarı verilmesi
+- İstenilen şarj istasyonuna rezervasyon yapabilme
+- Kendi şarj istasyonunu uygulama üzerindeki haritaya ekleyebilme
   
 
 ## Hedef Kitle
@@ -49,10 +51,10 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 
 **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats] 
@@ -60,7 +62,8 @@ https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-https://trello.com/invite/b/TTX1vEsQ/ATTI6c689acc966ad989e65fa986faf7e7c29282C80A/bootcamp-oua
+![Ekran görüntüsü 2023-06-20 213730](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/c7f533c0-9bf1-4595-af84-6d16763b0675)
+
 
 - **Ürün Durumu**: Ekran görüntüleri: Ekipteki arkadaşlarımızın final dönemine denk geldiği için sayfaların kodları yazılmadı, yapacağımız uygulamanın örnek ui fotoğrafları koyuldu. 
 
