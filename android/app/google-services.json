@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081209427490",
+    "project_id": "chargev-app-7ee2d",
+    "storage_bucket": "chargev-app-7ee2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081209427490:android:1bc032709ad0291c995c7b",
+        "android_client_info": {
+          "package_name": "com.bootcampoua.chargevapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081209427490-31tgjql9j8ql9k5nkogo69pqesufs1vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74Tc0blfgdgpPThDwhmo9_Xoe2Xox600"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081209427490-31tgjql9j8ql9k5nkogo69pqesufs1vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
