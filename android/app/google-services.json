@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "1081209427490-31tgjql9j8ql9k5nkogo69pqesufs1vu.apps.googleusercontent.com",
+          "client_id": "1081209427490-k669g37pkugoupvqmmarv42eki1g7c33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bootcampoua.chargevapp",
+            "certificate_hash": "5ec938cc93a4205548bed0820d578627140f8b1f"
+          }
+        },
+        {
+          "client_id": "1081209427490-o1hgmeokhb2vpjn7efs6m2dv3ia821ba.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -29,6 +37,13 @@
             {
               "client_id": "1081209427490-31tgjql9j8ql9k5nkogo69pqesufs1vu.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1081209427490-pfhfp34ackuq57jtt2rga31shf0u3igc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bootcampoua.chargevapp"
+              }
             }
           ]
         }
