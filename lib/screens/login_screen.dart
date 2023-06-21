@@ -84,6 +84,11 @@ class _LoginScreenState extends State<LoginScreen> {
                 colour: Colors.lightBlueAccent,
                 onPressed: loginWithGmail,
               ),
+              RoundedButton(
+                title: 'Phone Log In',
+                colour: Colors.lightBlueAccent,
+                onPressed: loginWithPhoneNumber,
+              ),
             ],
           ),
         ),
@@ -105,6 +110,24 @@ class _LoginScreenState extends State<LoginScreen> {
 
     // Once signed in, return the UserCredential
     return await FirebaseAuth.instance.signInWithCredential(credential);
+  }
+
+  Future<void> loginWithPhoneNumber() async {
+    await FirebaseAuth.instance.verifyPhoneNumber(
+      phoneNumber: '+905399112358',
+      verificationCompleted: (PhoneAuthCredential credential) async {
+        await FirebaseAuth.instance.signInWithCredential(credential);
+      },
+      verificationFailed: (FirebaseAuthException e) {},
+      codeSent: (String verificationId, int? resendToken) {
+        String _smsCode = "123456";
+
+        var _credential = PhoneAuthProvider.credential(verificationId: verificationId, smsCode: _smsCode);
+
+        _auth.signInWithCredential(_credential);
+      },
+      codeAutoRetrievalTimeout: (String verificationId) {},
+    );
   }
 
 }
