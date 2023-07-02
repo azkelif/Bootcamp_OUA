@@ -57,12 +57,13 @@ ChargEv, dünyada ve ülkemizde gün geçtikçe yaygınlaşan elektrikli araç k
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats] 
-https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/edit?usp=sharing
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1PBr_Vz82dokW6_OqhlD_p4R1kKoQ5GI8LP8wqqSfo64/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 ![Ekran görüntüsü 2023-06-20 214107](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/b1b4d999-7f6f-4707-9c00-e0c341a1522b)
+
+
 
 
 
@@ -80,3 +81,42 @@ Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlan
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+ 
+
+
+    # Sprint 2
+
+**Sprint Notları:** User Story'ler kırmızı label içerikli görevlerin içine yazılmıştır. item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 350 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması, ikinci sprintin 120 ile devam etmesi gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1IoRv7M2FimFxqpLhIyJqEchGNclxKsyRacTCYSLnF50/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+![Ekran görüntüsü 2023-07-03 010824](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/88af287c-056a-4b67-bbf5-02f62c23ff9b)
+
+
+
+- **Ürün Durumu** Ekran görüntüleri:
+
+![11](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/75f5693e-f791-48a6-bd10-39209fc72e0d)
+![12](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/8231dbbb-1320-411f-9d32-74720b678ab0)
+![13](https://github.com/azkelif/Bootcamp_OUA/assets/122868282/f0870a74-670c-447a-bf00-e99edd68ea7b)
+
+
+  
+- **Sprint Review**: 
+Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. Uygulamanın temel tasarımı belirlenmiş ve üzerinde çalışılmaya başlanmıştır. 
+Sprint Review katılımcıları: Mustafa Çitak, Mehmet Güven, Abdulsamet Alınmış, Elif Azak, Burak Yeşilyurt
+
+
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
